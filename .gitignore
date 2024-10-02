@@ -1,0 +1,9 @@
+wandb/
+.env
+**/.env
+__pycache__/
+*.csv
+*.pdf
+*DataRepository*
+Week 8/Day 1/cache/
+.history/
