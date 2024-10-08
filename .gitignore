@@ -7,3 +7,5 @@ __pycache__/
 *DataRepository*
 Week 8/Day 1/cache/
 .history/
+*.chainlit/
+Week 8/Day 2/paul-graham-to-kindle/
